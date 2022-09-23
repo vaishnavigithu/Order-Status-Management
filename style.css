@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+    background-color: black;
+}
+input{
+    color:rgb(9, 93, 121);
+    padding: 10px 50px 10px 10px;
+    border: 2px solid black;
+    width: 70%;
+}
+img{
+    position: relative;
+    top: -14px;
+}
+.display-4{
+    display: inline;
+}
+.executebtn-lg{
+    font-size: 20px;
+    padding: 10px 20px;
+    color:rgb(76, 136, 233);
+    margin-top: 10px;
+    background-color: black
+}
+.container{
+    margin: auto;
+    background-color: white;
+    width: 700px;
+    height:auto;
+    margin-top: 10px;
+    text-align: center;
+}
+.order-status-block{
+    width: 70%;
+    margin: 10px 0;
+    margin-top: 5px;
+    pointer-events: none;
+}
+.orderDetails{
+    background-color:rgb(241, 208, 241);
+    border-radius: 10px;
+    margin-top: 10px;
+}
